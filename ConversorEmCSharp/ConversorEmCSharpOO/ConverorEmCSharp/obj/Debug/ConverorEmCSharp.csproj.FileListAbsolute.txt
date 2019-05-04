@@ -1,0 +1,7 @@
+C:\Users\User\Documents\GitHub\Projetos\MeuProjetoPessoal\MeuProjetoPessoal\ConversorEmCSharp\ConverorEmCSharp\ConverorEmCSharp\bin\Debug\ConverorEmCSharp.exe.config
+C:\Users\User\Documents\GitHub\Projetos\MeuProjetoPessoal\MeuProjetoPessoal\ConversorEmCSharp\ConverorEmCSharp\ConverorEmCSharp\bin\Debug\ConverorEmCSharp.exe
+C:\Users\User\Documents\GitHub\Projetos\MeuProjetoPessoal\MeuProjetoPessoal\ConversorEmCSharp\ConverorEmCSharp\ConverorEmCSharp\bin\Debug\ConverorEmCSharp.pdb
+C:\Users\User\Documents\GitHub\Projetos\MeuProjetoPessoal\MeuProjetoPessoal\ConversorEmCSharp\ConverorEmCSharp\ConverorEmCSharp\obj\Debug\ConverorEmCSharp.csprojAssemblyReference.cache
+C:\Users\User\Documents\GitHub\Projetos\MeuProjetoPessoal\MeuProjetoPessoal\ConversorEmCSharp\ConverorEmCSharp\ConverorEmCSharp\obj\Debug\ConverorEmCSharp.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\Projetos\MeuProjetoPessoal\MeuProjetoPessoal\ConversorEmCSharp\ConverorEmCSharp\ConverorEmCSharp\obj\Debug\ConverorEmCSharp.exe
+C:\Users\User\Documents\GitHub\Projetos\MeuProjetoPessoal\MeuProjetoPessoal\ConversorEmCSharp\ConverorEmCSharp\ConverorEmCSharp\obj\Debug\ConverorEmCSharp.pdb

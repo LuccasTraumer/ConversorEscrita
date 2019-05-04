@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.202
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConversorArrays", "ConversorArrays\ConversorArrays.csproj", "{52FA1D8A-E650-4CBB-B939-B5E4C93F86A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52FA1D8A-E650-4CBB-B939-B5E4C93F86A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52FA1D8A-E650-4CBB-B939-B5E4C93F86A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52FA1D8A-E650-4CBB-B939-B5E4C93F86A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52FA1D8A-E650-4CBB-B939-B5E4C93F86A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ADB3545C-97A2-4E78-B8E6-194473C0A889}
+	EndGlobalSection
+EndGlobal

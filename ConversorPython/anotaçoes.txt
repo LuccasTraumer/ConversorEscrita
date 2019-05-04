@@ -1,0 +1,3 @@
+Se o caracter não for 
+daquele indice soma mais 1 no indice e verifica o prox caracter
+

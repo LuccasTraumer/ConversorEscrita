@@ -1,0 +1,7 @@
+C:\Users\User\Documents\GitHub\Projetos\MeuProjetoPessoal\MeuProjetoPessoal\ConversorEmCSharp\ConversorArrays\ConversorArrays\bin\Debug\ConversorArrays.exe.config
+C:\Users\User\Documents\GitHub\Projetos\MeuProjetoPessoal\MeuProjetoPessoal\ConversorEmCSharp\ConversorArrays\ConversorArrays\bin\Debug\ConversorArrays.exe
+C:\Users\User\Documents\GitHub\Projetos\MeuProjetoPessoal\MeuProjetoPessoal\ConversorEmCSharp\ConversorArrays\ConversorArrays\bin\Debug\ConversorArrays.pdb
+C:\Users\User\Documents\GitHub\Projetos\MeuProjetoPessoal\MeuProjetoPessoal\ConversorEmCSharp\ConversorArrays\ConversorArrays\obj\Debug\ConversorArrays.csprojAssemblyReference.cache
+C:\Users\User\Documents\GitHub\Projetos\MeuProjetoPessoal\MeuProjetoPessoal\ConversorEmCSharp\ConversorArrays\ConversorArrays\obj\Debug\ConversorArrays.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\Projetos\MeuProjetoPessoal\MeuProjetoPessoal\ConversorEmCSharp\ConversorArrays\ConversorArrays\obj\Debug\ConversorArrays.exe
+C:\Users\User\Documents\GitHub\Projetos\MeuProjetoPessoal\MeuProjetoPessoal\ConversorEmCSharp\ConversorArrays\ConversorArrays\obj\Debug\ConversorArrays.pdb
