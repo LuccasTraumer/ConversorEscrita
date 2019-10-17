@@ -20,7 +20,7 @@ public class Dicionario implements Cloneable
 	private int kd(char letra)
 	{
 		int pos = -1;
-		for(int i=0; i < this.tamanhoFrase;i++)
+		for(int i=0; i < this.alfabeto.length;i++)
 			if(alfabeto[i] == letra){
 				pos = i;
 				break;
