@@ -1,6 +1,5 @@
 public class Dicionario implements Cloneable
 {
-	private static final int TAMANHO = 30;
 	private final char alfabeto[] = {'a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','Z',' '};
 	private final String morse[] = {".-","-...","-.-.","-..",".","..-.","--.","....","..",".---","-.-",".-..","--",
                   "-.","---",".--.","--.-",".-.","...","-",
@@ -89,6 +88,24 @@ public class Dicionario implements Cloneable
 			return false;
 
 		return true;
+	}
+
+	public int hashCode()
+	{
+		int ret = 1;
+
+		ret = ret *7+ new Integer(this.tamanhoFrase).hashCode();
+		ret = ret *7 + frase.hashCode();
+
+		for(int i=0; i < this.alfabeto.length;i++)
+		{
+			ret = ret *7  + new Character(alfabeto[i]).hashCode();
+			ret = ret *7 + morse[i].hashCode();
+		}
+		if(ret < 0)
+			ret -= ret;
+
+		return ret;
 	}
 
 }
