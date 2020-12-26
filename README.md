@@ -1,3 +1,5 @@
+![GitHub](https://img.shields.io/github/license/luccastraumer/ConversorEscrita)
+
 # ConversorEscrita
 
 Programa feito para testa minha habilidades em C#,Python e JAVA.O Programa foi feito por conta propria e colocar uma ideia em ação 
